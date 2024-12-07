@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760477625051",
+    "project_id": "quotenote-7ddae",
+    "storage_bucket": "quotenote-7ddae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760477625051:android:b1de434e454c54ca433afe",
+        "android_client_info": {
+          "package_name": "com.example.quoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rsdCl8V0_pFVRTjRAfY0ICNPiqNXWds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
